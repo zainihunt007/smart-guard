@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700134692687",
+    "project_id": "smart-guard-1c6e0",
+    "storage_bucket": "smart-guard-1c6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700134692687:android:3ed3b741c46d9d7148d73a",
+        "android_client_info": {
+          "package_name": "com.example.smart_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagoaMeFvfjtgZfBdJosuMp_ffPtioVkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
